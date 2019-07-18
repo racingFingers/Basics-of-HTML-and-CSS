@@ -1,0 +1,196 @@
+body {
+    background-color:teal;
+    text-align:center;
+}
+
+
+button {
+    border-radius:10px;    
+    background-color:yellow;
+    padding:10px;
+}
+
+.button2 {
+    text-align:center;    
+}
+
+.button {
+    text-align:center;
+    
+}
+.cssInfo h1 {
+    animation: 0.5s weMove infinite;
+}
+
+@keyframes  weMove {
+    0%{ color:black;}
+    25%{ color:blue;}
+    50%{ color:yellow;}
+    75%{ color:blue;}
+    100%{ color:black;}
+}
+
+.cssInfo h3 {
+    animation: 3s we2Move infinite;
+}
+
+@keyframes we2Move {
+    0%{color:black;}
+    25%{color:blue;}
+    50%{color:yellow;}
+    75%{color:blue;}
+    100%{color:black;}
+}
+
+.done p {
+    text-align:center;
+    font-size:20px;
+    
+}
+
+
+.cssFirst p {
+    color:yellow;
+    font-size:20px;
+}
+
+.cssFirst h1 {
+    color:purple;
+}
+
+.terry li {
+    color:white;
+    font-size:32px;
+}
+
+
+.Credits li {
+    color:white;
+    font-size:20px;
+}
+
+.terry2 {
+    color:gold;
+}
+
+
+.oli {
+    color:gold;
+    font-size:29px;
+}
+
+.best {
+    color:red;
+}
+
+
+.elements {
+    font-size:25px;
+    color:yellow;
+}
+
+
+Please type your code here:
+
+
+
+.h1-h6 p {
+    font-size:20px;
+}
+
+.intro p {
+    font-size:20px;
+}
+
+.iform h1  {
+    color:white;
+    animation:3s formMove infinite;
+}
+
+@keyframes formMove {
+    0%{color:white;}
+    25%{color:yellow;}
+    50%{color:blue;}
+    75%{color:yellow;}
+    100%{color:white;}
+}
+
+
+.cssQuiz h1 {
+    color:white;
+    animation:3s h1Move infinite;
+}
+
+@keyframes h1Move {
+    0%{color:white;}
+    25%{color:yellow;}
+    50%{color:blue;}
+    75%{color:yellow;}
+    100%{color:white;}
+}
+
+
+.hquiz h1 {
+    color:white;
+    animation:3s h12Move infinite;
+}
+
+.hquiz h3 {
+    color:yellow;
+}
+
+@keyframes h12Move {
+    0%{color:white;}
+    25%{color:yellow;}
+    50%{color:blue;}
+    75%{color:yellow;}
+    100%{color:white;}    
+}
+
+
+.cssQuiz h3 {
+    color:yellow;
+}
+
+
+.hquiz p {
+    color:black;
+    animation:3s move infinite;
+    
+}
+
+
+@keyframes move {
+    0%{color:black;}
+    25%{color:blue;}
+    50%{color:yellow;}
+    75%{color:blue;}
+    100%{color:black;}
+}
+
+
+#thx {
+    color:red;
+}
+
+
+
+.cssQuiz p {
+    color:black;
+    animation:3s move2 infinite;
+    
+}
+
+
+@keyframes move2 {
+    0%{color:black;}
+    25%{color:blue;}
+    50%{color:yellow;}
+    75%{color:blue;}
+    100%{color:black;}
+}
+
+
+#thx2 {
+    color:red;
+}
